@@ -37,4 +37,5 @@ Tool Version : Tooler-1.0
 Programmer : Aether
 """
 
+"""*Tooler Version*"""
 TOOLER_VERSION = 1
