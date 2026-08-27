@@ -19,3 +19,6 @@ Tooler-1.0-Instructions:
 
 -TOOLER_BUILD_OUTPUT    *set the application name for the output after the code compiles*
 
+-TOOLER_BUILD_ARCH    *set the arch type of the build,  [x64, x86]*
+
+-TOOLER_BUILD_INFO    *set the build type info, [debug, release]*
