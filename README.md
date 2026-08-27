@@ -33,8 +33,8 @@ Tooler-1.0-Instructions:
 
 -TOOLER_TOOLKIT      -*sets a toolkit that might be need, such as a GUI toolkit, or Graphics, etc...*
 
--TOOLER_BUILD_MAKE_DLL    -*makes all compiled sources a *.DLL file*
+-TOOLER_BUILD_MAKE_DLL    -*makes all compiled sources a .DLL file*
 
--TOOLER_BUILD_MAKE_LIB    -*makes all compiled sources a *.LIB file*
+-TOOLER_BUILD_MAKE_LIB    -*makes all compiled sources a .LIB file*
 
 -TOOLER_SKIP_OVER    -*if a file is building and has a error, it does not stop the build process, but goes over the file, and goes to another file to build*
