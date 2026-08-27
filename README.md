@@ -39,3 +39,10 @@ Tooler-1.0-Instructions:
 
 -TOOLER_SKIP_OVER    -*if a file is building and has a error, it does not stop the build process, but goes over the file, and goes to another file to build*
 
+
+#      Tooler Terminal
+
+To Began Build:
+
+-.tooler  -build_pkgs  -build_info
+
