@@ -11,3 +11,7 @@ Tooler-1.0-Instructions:
 
 -TOOLER_VERSION     *set the toolers version*
 
+-TOOLER_IGNR    *file extensions for tooler to ignore*
+
+-TOOLER_IGNR_DIRECT    *a certain file for tooler to ignore*
+
