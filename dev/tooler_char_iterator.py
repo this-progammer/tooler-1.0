@@ -31,3 +31,66 @@ All rights, title, and interest in Tooler-1.0 and its source code remain with **
 
 **Tooler-1.0 is proprietary software. All rights reserved.**
 """
+"""
+File : *tooler_char_iterator.py*
+Tool Version : Tooler-1.0
+Programmer : Aether
+"""
+
+class ToolerCharIterator:
+  def __init__( self ):
+    return self
+
+  def charToUpper( c : str ):
+    if c == 'a':
+      c = 'A'
+    if c == 'b':
+      c = 'B'
+    if c == 'c':
+      c == 'C'
+    if c == 'd':
+      c == 'D'
+    if c == 'e':
+      c == 'E'
+    if c == 'f':
+      c = 'F'
+    if c == 'g':
+      c = 'G'
+    if c == 'h':
+      c = 'H'
+    if c == 'i':
+      c = 'I'
+    if c == 'j':
+      c = 'J'
+    if c == 'k':
+      c = 'K'
+    if c == 'l':
+      c = 'L'
+    if c == 'm':
+      c = 'M'
+    if c == 'n':
+      c = 'N'
+    if c == 'o':
+      c = 'O'
+    if c == 'p':
+      c = 'P'
+    if c == 'q':
+      c = 'Q'
+    if c == 'r':
+      c = 'R'
+    if c == 's':
+      c = 'S'
+    if c == 't':
+      c = 'T'
+    if c == 'u':
+      c = 'U'
+    if c == 'v':
+      c = 'V'
+    if c == 'w':
+      c = 'W'
+    if c == 'x':
+      c = 'X'
+    if c == 'y':
+      c = 'Y'
+    if c == 'z':
+      c = 'Z'
