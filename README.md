@@ -44,5 +44,5 @@ Tooler-1.0-Instructions:
 
 To Began Tooler File Package Build:
 
-# ~ -f [.tooler]  $[build_pkgs, build_info]
+# ~ -f .tooler  $[build_pkgs, build_info]
 
