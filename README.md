@@ -15,3 +15,7 @@ Tooler-1.0-Instructions:
 
 -TOOLER_IGNR_DIRECT    *a certain file for tooler to ignore*
 
+-TOOLER_COMPILER_CHAIN    *set the compiler that your code uses to build*
+
+-TOOLER_BUILD_OUTPUT    *set the application name for the output after the code compiles*
+
