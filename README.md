@@ -42,7 +42,7 @@ Tooler-1.0-Instructions:
 
 #      Tooler Terminal
 
-To Began Build:
+To Began Tooler File Package Build:
 
 --.tooler  --build_pkgs  --build_info
 
