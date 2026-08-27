@@ -23,7 +23,7 @@ Tooler-1.0-Instructions:
 
 -TOOLER_BUILD_INFO    -*set the build type info, [debug, release]*
 
--TOOLER_BUILD_MSG    -*print a message in a Command window, after code builds*
+-TOOLER_BUILD_MSG    -*print a message in a command window, after code builds*
 
 -TOOLER_CRUSTIFY    -*zip a folder*
 
