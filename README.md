@@ -22,3 +22,13 @@ Tooler-1.0-Instructions:
 -TOOLER_BUILD_ARCH    -*set the arch type of the build,  [x64, x86]*
 
 -TOOLER_BUILD_INFO    -*set the build type info, [debug, release]*
+
+-TOOLER_BUILD_MSG    -*print a message in a Command window, after code builds*
+
+-TOOLER_CRUSTIFY    -*zip a folder*
+
+-TOOLER_DELETE      -*delete a file or folder*
+
+-TOOLER_BIN        -*sets where the build file from source code goes*
+
+-TOOLER_TOOLKIT      -*sets a toolkit that might be need, such as a GUI toolkit, or Graphics, etc...*
