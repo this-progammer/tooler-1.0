@@ -39,7 +39,12 @@ Programmer : Aether
 
 """*FILE NAME OF FILE TO BE DELETED*"""
 TOOLER_SELECTED_DELETE_FILE=str
+TOOLER_SELECTED_DELETE_FOLDER=str
 
 """*tooler_delete()*"""
 def tooler_delete( f : str ):
   del( f )
+
+"""*tooler_delete_folder()*"""
+def tooler_delete_folder( folder : str ):
+  del( folder )
