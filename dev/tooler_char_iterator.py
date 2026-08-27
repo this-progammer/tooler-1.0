@@ -95,3 +95,12 @@ class ToolerCharIterator:
       c = 'Y'
     if c == 'z':
       c = 'Z'
+
+
+  """*back_one*"""
+  def back_one( c : str ):
+    c - 1
+
+  """*forward_one*"""
+  def forward_one( c : str ):
+    c + 1
