@@ -37,4 +37,4 @@ Tooler-1.0-Instructions:
 
 -TOOLER_BUILD_MAKE_LIB    -*makes all compiled sources a .LIB file*
 
--TOOLER_SKIP_OVER    -*if a file is building and has a error, it does not stop the build process, but goes over the file, and goes to another file to build*
+-TOOLER_SKIP_OVER    -*if a file is building and has a error, it does not stop the build process, but goes over the file, and goes to another file to build, !USE WITH CAUTION!*
