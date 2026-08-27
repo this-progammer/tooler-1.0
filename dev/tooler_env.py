@@ -28,6 +28,11 @@ class ToolerEnvironment :
   def tooler_env_path_clear():
     TOOLER_PATH = ''
 
-  """tooler_env_source_clear*"""
+  """*tooler_env_source_clear*"""
   def tooler_env_source_clear():
     TOOLER_SOURCE_FILES = ''
+
+  """*clear*"""
+  def clear( self ):
+    self.tooler_env_path_clear()
+    self.tooler_env_source_clear()
