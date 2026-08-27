@@ -40,7 +40,8 @@ Programmer : Aether
 class ToolerCharIterator:
   def __init__( self ):
     return self
-
+    
+  """*lower case to upper case*"""
   def charToUpper( c : str ):
     if c == 'a':
       c = 'A'
