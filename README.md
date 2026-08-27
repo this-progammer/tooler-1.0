@@ -5,20 +5,20 @@ Tooler-1.0-Instructions:
 
 # *.tooler File Configuration
 
--TOOLER_ENV      *set the toolers environment*
+-TOOLER_ENV      -*set the toolers environment*
 
--TOOLER_SOURCES      *set the toolers source files to compile*
+-TOOLER_SOURCES      -*set the toolers source files to compile*
 
--TOOLER_VERSION     *set the toolers version*
+-TOOLER_VERSION     -*set the toolers version*
 
--TOOLER_IGNR    *file extensions for tooler to ignore*
+-TOOLER_IGNR    -*file extensions for tooler to ignore*
 
--TOOLER_IGNR_DIRECT    *a certain file for tooler to ignore*
+-TOOLER_IGNR_DIRECT    -*a certain file for tooler to ignore*
 
--TOOLER_COMPILER_CHAIN    *set the compiler that your code uses to build*
+-TOOLER_COMPILER_CHAIN    -*set the compiler that your code uses to build*
 
--TOOLER_BUILD_OUTPUT    *set the application name for the output after the code compiles*
+-TOOLER_BUILD_OUTPUT    -*set the application name for the output after the code compiles*
 
--TOOLER_BUILD_ARCH    *set the arch type of the build,  [x64, x86]*
+-TOOLER_BUILD_ARCH    -*set the arch type of the build,  [x64, x86]*
 
--TOOLER_BUILD_INFO    *set the build type info, [debug, release]*
+-TOOLER_BUILD_INFO    -*set the build type info, [debug, release]*
