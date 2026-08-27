@@ -99,8 +99,20 @@ class ToolerCharIterator:
 
   """*back_one*"""
   def back_one( c : str ):
-    c - 1
+    c = c-1
 
   """*forward_one*"""
   def forward_one( c : str ):
-    c + 1
+    c = c+1
+
+  """*erase*"""
+  def erase( c : str ):
+    c = '\0'
+
+  """*push_token*"""
+  def push_token( c : str, token : str ):
+    c += token
+
+  """*write_char*"""
+  def write_char( c : str ):
+    print( c )
