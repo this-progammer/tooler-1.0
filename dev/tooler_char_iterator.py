@@ -116,3 +116,7 @@ class ToolerCharIterator:
   """*write_char*"""
   def write_char( c : str ):
     print( c )
+
+  """*get_at*"""
+  def get_at( c : str )->str:
+    return c
