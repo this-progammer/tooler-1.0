@@ -37,6 +37,9 @@ Tool Version : Tooler-1.0
 Programmer : Aether
 """
 
+"""*FILE NAME OF FILE TO BE DELETED*"""
 TOOLER_SELECTED_DELETE_FILE=str
 
 """*tooler_delete()*"""
+def tooler_delete( f : str ):
+  del( f )
